@@ -6,7 +6,7 @@
 - [x] @H2SQL
 - [x] @JPA
 - [x] @SPRINGBOOT
-- [x] @ARC (Advanced REST CLIEnt)
+- [x] @ARC (Advanced REST CliEnt)
 - [x] @ECLIPSE (IDE)
 - [ ] @SWAGGER
 - [ ] @HEROKUAPP
